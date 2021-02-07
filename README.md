@@ -1,4 +1,4 @@
-#⚠️This project is outdated, i just keep it on my profile for the history of it. this was my first github repository.
+# Good Day! ⚠️ This project is outdated, i just keep it on my profile for the history of it. this was my first github repository.
 # Searching Bot
 ### ***Searching bot*** is a solution to getting search results from various search engines!
 #### **Easily expand on the code** and use the search result data for whatever you want!
